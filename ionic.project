@@ -1,0 +1,12 @@
+{
+  "name": "nx-bos-ionic",
+  "app_id": "455e4969",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}
