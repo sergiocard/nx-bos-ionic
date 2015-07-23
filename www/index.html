@@ -11,6 +11,7 @@
 
     <!-- ionic/angularjs js -->
     <script src="lib/ionic/js/ionic.bundle.js"></script>
+    <script src="lib/ionic/js/angular/angular-resource.js"></script>
 
     <!-- cordova script (this will be a 404 during development) -->
     <script src="cordova.js"></script>
@@ -19,8 +20,18 @@
     <script src="js/app.js"></script>
     <script src="js/controllers.js"></script>
     <script src="js/services.js"></script>
+    <!-- common -->
+    <script src="js/common/directives/ngLoading.js"></script>
+    <script src="js/common/model/Response.js"></script>
+    <script src="js/common/services/baseDataResource.js"></script>
+    <script src="js/common/services/baseDataService.js"></script>
+    <script src="js/common/services/servicesModule.js"></script>
+    <!-- home module -->
+    <script src="js/home/homeController.js"></script>
+    <script src="js/home/homeModule.js"></script>
   </head>
   <body ng-app="starter">
+    <h2 ng-loading style="position: absolute;z-index: 100;color: green; top: 50%;">caricamento</h2>
     <!--
       The nav bar that will be updated as we navigate between views.
     -->

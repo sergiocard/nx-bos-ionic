@@ -1,0 +1,2999 @@
+{
+    "code": 1,
+    "codeDescription": "Success",
+    "customerServiceNumber": "0664893050",
+    "aperturaContoUrl": "https://wp2.eurobet.it/oait.go",
+    "isGiocoChiuso": true,
+    "giocoChiusoMessage": "Il gioco è chiuso fino alle 19.00",
+    "liveSportList": [
+        {
+            "liveSportPriority": 0,
+            "sportCode": 1,
+            "sportDescription": "Calcio",
+            "gamesNumber": 5,
+            "liveLeagueList": [
+                {
+                    "leaguePriority": 0,
+                    "leagueCode": 21,
+                    "sportCode": 1,
+                    "leagueDescription": "Serie A (priorita 0)",
+                    "gamesNumber": 4,
+                    "eventLiveList": [
+                        {
+                            "eventLivePriority": 1,
+                            "programCode": 15477,
+                            "sportCode": 3,
+                            "leagueCode": 761,
+                            "eventCode": 1283,
+                            "eventDescription": "Ramos, Albert - Starace, Potito asdasdas asdasda ssad",
+                            "eventDate": "2014-06-10T12:30:00Z",
+                            "elapsedTime": "(0-1) Interrotta",
+                            "streamingAvailable": false,
+                            "streamingProvider": 2,
+                            "team1Description": "Ramos, Albert",
+                            "team1UriImage": "",
+                            "team1Scores": [
+                                3
+                            ],
+                            "team2Description": "Starace, Potito",
+                            "team2UriImage": "",
+                            "quoted": true,
+                            "team2Scores": [
+                                6
+                            ],
+                            "sportDescription": "TENNIS",
+                            "leagueDescription": "CHALLENGER DI ITALIA",
+                            "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "gamePromo": {
+                                "gameCode": 89,
+                                "gameDescription": "TESTA A TESTA MATCH LIVE",
+                                "outcomeListCode": 2,
+                                "outcomeList": [
+                                    {
+                                        "outcomeCode": 1,
+                                        "outcomeDescription": "1",
+                                        "outcomeOdds": 0
+                                    },
+                                    {
+                                        "outcomeCode": 2,
+                                        "outcomeDescription": "2",
+                                        "outcomeOdds": 150
+                                    }
+                                ],
+                                "handicap": 0,
+                                "comboMin": 1,
+                                "comboMax": 20,
+                                "comboAams": 1
+                            },
+                            "gamesNumber": 1
+                        }
+                    ]
+                },
+                {
+                    "leagueCode": 41,
+                    "leaguePriority": 2,
+                    "sportCode": 5,
+                    "leagueDescription": "European League Femminile (priorita 2)",
+                    "gamesNumber": 1,
+                    "eventLiveList": [
+                        {
+                            "eventLivePriority": 1,
+                            "programCode": 15478,
+                            "sportCode": 3,
+                            "leagueCode": 761,
+                            "eventCode": 1284,
+                            "eventDescription": "Ramos, Albert - Starace, Potito 1",
+                            "eventDate": "2014-06-10T12:30:00Z",
+                            "elapsedTime": "(0-1) Interrotta",
+                            "team1Description": "Ramos, Albert",
+                            "team1UriImage": "",
+                            "team1Scores": [
+                                3
+                            ],
+                            "team2Description": "Starace, Potito",
+                            "team2UriImage": "",
+                            "quoted": true,
+                            "team2Scores": [
+                                6
+                            ],
+                            "sportDescription": "TENNIS",
+                            "leagueDescription": "CHALLENGER DI ITALIA",
+                            "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "gamePromo": {
+                                "gameCode": 89,
+                                "gameDescription": "TESTA A TESTA MATCH LIVE",
+                                "outcomeListCode": 2,
+                                "outcomeList": [
+                                    {
+                                        "outcomeCode": 1,
+                                        "outcomeDescription": "1",
+                                        "outcomeOdds": 0
+                                    },
+                                    {
+                                        "outcomeCode": 2,
+                                        "outcomeDescription": "2",
+                                        "outcomeOdds": 150
+                                    }
+                                ],
+                                "handicap": 0,
+                                "comboMin": 1,
+                                "comboMax": 20,
+                                "comboAams": 1
+                            },
+                            "gamesNumber": 1
+                        },
+                        {
+                            "eventLivePriority": 2,
+                            "programCode": 15477,
+                            "sportCode": 3,
+                            "leagueCode": 761,
+                            "eventCode": 1285,
+                            "eventDescription": "evento prova",
+                            "eventDate": "2014-06-10T12:30:00Z",
+                            "elapsedTime": "(0-1) Interrotta",
+                            "team1Description": "Ramos, Albert",
+                            "team1UriImage": "",
+                            "team1Scores": [
+                                3
+                            ],
+                            "team2Description": "Starace, Potito",
+                            "team2UriImage": "",
+                            "quoted": true,
+                            "team2Scores": [
+                                6
+                            ],
+                            "sportDescription": "TENNIS",
+                            "leagueDescription": "CHALLENGER DI ITALIA",
+                            "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "gamePromo": {
+                                "gameCode": 89,
+                                "gameDescription": "TESTA A TESTA MATCH LIVE",
+                                "outcomeListCode": 2,
+                                "outcomeList": [
+                                    {
+                                        "outcomeCode": 1,
+                                        "outcomeDescription": "1",
+                                        "outcomeOdds": 0
+                                    },
+                                    {
+                                        "outcomeCode": 2,
+                                        "outcomeDescription": "2",
+                                        "outcomeOdds": 150
+                                    }
+                                ],
+                                "handicap": 0,
+                                "comboMin": 1,
+                                "comboMax": 20,
+                                "comboAams": 1
+                            },
+                            "gamesNumber": 1
+                        }
+                    ]
+                },
+                {
+                    "leaguePriority": 1,
+                    "leagueCode": 141,
+                    "sportCode": 1,
+                    "leagueDescription": "Campionato Russo",
+                    "gamesNumber": 1
+                }
+            ]
+        },
+        {
+            "liveSportPriority": 1,
+            "sportCode": 3,
+            "sportDescription": "Tennis",
+            "gamesNumber": 0,
+            "liveLeagueList": [
+                {
+                    "leaguePriority": 0,
+                    "leagueCode": 21,
+                    "sportCode": 1,
+                    "leagueDescription": "Serie A",
+                    "gamesNumber": 4,
+                    "eventLiveList": [
+                        {
+                            "eventLivePriority": 1,
+                            "programCode": 15477,
+                            "sportCode": 3,
+                            "leagueCode": 761,
+                            "eventCode": 1273,
+                            "eventDescription": "Ramos, Albert - Starace, Potito 2",
+                            "eventDate": "2014-06-10T12:30:00Z",
+                            "elapsedTime": "(0-1) Interrotta",
+                            "team1Description": "Ramos, Albert",
+                            "team1UriImage": "",
+                            "team1Scores": [
+                                3
+                            ],
+                            "team2Description": "Starace, Potito",
+                            "team2UriImage": "",
+                            "quoted": true,
+                            "team2Scores": [
+                                6
+                            ],
+                            "sportDescription": "TENNIS",
+                            "leagueDescription": "CHALLENGER DI ITALIA",
+                            "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                            "gamePromo": {
+                                "gameCode": 89,
+                                "gameDescription": "TESTA A TESTA MATCH LIVE",
+                                "outcomeListCode": 2,
+                                "outcomeList": [
+                                    {
+                                        "outcomeCode": 1,
+                                        "outcomeDescription": "1",
+                                        "outcomeOdds": 0
+                                    },
+                                    {
+                                        "outcomeCode": 2,
+                                        "outcomeDescription": "2",
+                                        "outcomeOdds": 150
+                                    }
+                                ],
+                                "handicap": 0,
+                                "comboMin": 1,
+                                "comboMax": 20,
+                                "comboAams": 1
+                            },
+                            "gamesNumber": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "sportList": [
+        {
+            "sportCode": 1,
+            "sportDescription": "CALCIO",
+            "gamesNumber": 4917,
+            "eventsNumber": 10,
+            "leagueList": [
+                {
+                    "leagueCode": 251,
+                    "sportCode": 1,
+                    "leagueDescription": "Serie B Eurobet",
+                    "gamesNumber": 201,
+                    "eventsNumber": 10
+                },
+                {
+                    "leagueCode": 105,
+                    "sportCode": 1,
+                    "leagueDescription": "Mondiali",
+                    "gamesNumber": 3826,
+                    "eventsNumber": 11
+                },
+                {
+                    "leagueCode": 172,
+                    "sportCode": 1,
+                    "leagueDescription": "Europei U19",
+                    "gamesNumber": 65,
+                    "eventsNumber": 12
+                },
+                {
+                    "leagueCode": 165,
+                    "sportCode": 1,
+                    "leagueDescription": "Qual. Europei",
+                    "gamesNumber": 9,
+                    "eventsNumber": 13
+                },
+                {
+                    "leagueCode": 150,
+                    "sportCode": 1,
+                    "leagueDescription": "Campionato Primavera",
+                    "gamesNumber": 20,
+                    "eventsNumber": 14
+                },
+                {
+                    "leagueCode": 74,
+                    "sportCode": 1,
+                    "leagueDescription": "Amichevoli",
+                    "gamesNumber": 18,
+                    "eventsNumber": 15
+                },
+                {
+                    "leagueCode": 137,
+                    "sportCode": 1,
+                    "leagueDescription": "Liga Adelante",
+                    "gamesNumber": 63,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 17,
+                    "sportCode": 1,
+                    "leagueDescription": "Veikkausliiga",
+                    "gamesNumber": 119,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 196,
+                    "sportCode": 1,
+                    "leagueDescription": "Ykkonen",
+                    "gamesNumber": 91,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 26,
+                    "sportCode": 1,
+                    "leagueDescription": "Premier Division",
+                    "gamesNumber": 118,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 198,
+                    "sportCode": 1,
+                    "leagueDescription": "First Division",
+                    "gamesNumber": 58,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 152,
+                    "sportCode": 1,
+                    "leagueDescription": "Urvalsdeild",
+                    "gamesNumber": 78,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 27,
+                    "sportCode": 1,
+                    "leagueDescription": "Eliteserien",
+                    "gamesNumber": 156,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 28,
+                    "sportCode": 1,
+                    "leagueDescription": "1. Division",
+                    "gamesNumber": 38,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 67,
+                    "sportCode": 1,
+                    "leagueDescription": "Superettan",
+                    "gamesNumber": 19,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 70,
+                    "sportCode": 1,
+                    "leagueDescription": "MLS",
+                    "gamesNumber": 38,
+                    "eventsNumber": 16
+                }
+            ]
+        },
+        {
+            "sportCode": 2,
+            "sportDescription": "BASKET",
+            "gamesNumber": 156,
+            "eventsNumber": 20,
+            "leagueList": [
+                {
+                    "leagueCode": 48,
+                    "sportCode": 2,
+                    "leagueDescription": "VTB United League",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 29,
+                    "sportCode": 2,
+                    "leagueDescription": "BBL",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 55,
+                    "sportCode": 2,
+                    "leagueDescription": "Winner League",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 57,
+                    "sportCode": 2,
+                    "leagueDescription": "LKL",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 58,
+                    "sportCode": 2,
+                    "leagueDescription": "A League",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 8,
+                    "sportCode": 2,
+                    "leagueDescription": "ACB",
+                    "gamesNumber": 26,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 39,
+                    "sportCode": 2,
+                    "leagueDescription": "TBL",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 12,
+                    "sportCode": 2,
+                    "leagueDescription": "NBA",
+                    "gamesNumber": 13,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 32,
+                    "sportCode": 2,
+                    "leagueDescription": "WNBA",
+                    "gamesNumber": 39,
+                    "eventsNumber": 16
+                }
+            ]
+        },
+        {
+            "sportCode": 3,
+            "sportDescription": "TENNIS",
+            "gamesNumber": 31,
+            "eventsNumber": 30,
+            "leagueList": [
+                {
+                    "leagueCode": 131,
+                    "sportCode": 3,
+                    "leagueDescription": "Wimbledon",
+                    "gamesNumber": 1,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 42,
+                    "sportCode": 3,
+                    "leagueDescription": "ATP Halle",
+                    "gamesNumber": 8,
+                    "eventsNumber": 16
+                },
+                {
+                    "leagueCode": 51,
+                    "sportCode": 3,
+                    "leagueDescription": "ATP Londra",
+                    "gamesNumber": 22,
+                    "eventsNumber": 16
+                }
+            ]
+        },
+        {
+            "sportCode": 5,
+            "sportDescription": "VOLLEY",
+            "gamesNumber": 2,
+            "eventsNumber": 40,
+            "leagueList": [
+                {
+                    "leagueCode": 33,
+                    "sportCode": 5,
+                    "leagueDescription": "European League",
+                    "gamesNumber": 2,
+                    "eventsNumber": 16
+                }
+            ]
+        },
+        {
+            "sportCode": 8,
+            "sportDescription": "MOTOCICLISMO",
+            "gamesNumber": 2,
+            "eventsNumber": 1,
+            "leagueList": [
+                {
+                    "leagueCode": 1,
+                    "sportCode": 8,
+                    "leagueDescription": "Motomondiale",
+                    "gamesNumber": 2,
+                    "eventsNumber": 16
+                }
+            ]
+        },
+        {
+            "sportCode": 45,
+            "sportDescription": "BASEBALL",
+            "gamesNumber": 35,
+            "eventsNumber": 50,
+            "leagueList": [
+                {
+                    "leagueCode": 1,
+                    "sportCode": 45,
+                    "leagueDescription": "MLB",
+                    "gamesNumber": 35,
+                    "eventsNumber": 16
+                }
+            ]
+        }
+    ],
+    "homeSectionList": [
+        {
+            "type": 1,
+            "homeDescription": "In Primo Piano",
+            "eventForHomeList": [
+                {
+                    "programCode": 0,
+                    "sportCode": 1,
+                    "leagueCode": 251,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "Serie B Eurobet",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_calcio1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "Mondiali",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_calcio1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 1,
+                    "leagueCode": 172,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "Europei U19",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_calcio1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 48,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "VTB United League",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 29,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "BBL",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 55,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "Winner League",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 57,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "LKL",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 58,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "A League",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 8,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "ACB",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 39,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "TBL",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 12,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "NBA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 2,
+                    "leagueCode": 32,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "WNBA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 3,
+                    "leagueCode": 131,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "Wimbledon",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ATP Halle",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ATP Londra",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 5,
+                    "leagueCode": 33,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "VOLLEY",
+                    "leagueDescription": "European League",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_volley1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 8,
+                    "leagueCode": 1,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "MOTOCICLISMO",
+                    "leagueDescription": "Motomondiale",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_moto1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 0,
+                    "sportCode": 45,
+                    "leagueCode": 1,
+                    "eventCode": 0,
+                    "eventDate": null,
+                    "sportDescription": "BASEBALL",
+                    "leagueDescription": "MLB",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/mob_newapp_baseball1.jpg",
+                    "gamesNumber": 0
+                }
+            ]
+        },
+        {
+            "type": 2,
+            "homeDescription": "Live",
+            "maxItemsToShow": 3,
+            "eventLiveForHomeList": [
+                {
+                    "programCode": 15526,
+                    "sportCode": 11,
+                    "leagueCode": 13,
+                    "eventCode": 1,
+                    "eventDescription": "VINCENTE TAPPA 3 CRITERIUM DU DAUPHINE",
+                    "eventDate": "2014-06-10T09:45:00Z",
+                    "quoted": false,
+                    "sportDescription": "CICLISMO",
+                    "leagueDescription": "CRITERIUM DU DAUPHINE' LIBERE'",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_ciclismo1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_ciclismo1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 50,
+                    "eventDescription": "HAASE R. - GASQUET R.",
+                    "eventDate": "2014-06-10T12:00:00Z",
+                    "elapsedTime": "(2-0) Finale",
+                    "team1Description": "HAASE R.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        6
+                    ],
+                    "team2Description": "GASQUET R.",
+                    "team2UriImage": "",
+                    "quoted": false,
+                    "team2Scores": [
+                        4,
+                        4
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI HALLE",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 52,
+                    "eventDescription": "LU Y.H. - PAVIC M.",
+                    "eventDate": "2014-06-10T12:00:00Z",
+                    "elapsedTime": "(2-1) Finale",
+                    "team1Description": "LU Y.H.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        7,
+                        6,
+                        7
+                    ],
+                    "team2Description": "PAVIC M.",
+                    "team2UriImage": "",
+                    "quoted": false,
+                    "team2Scores": [
+                        6,
+                        7,
+                        6
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI HALLE",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 761,
+                    "eventCode": 1283,
+                    "eventDescription": "Ramos, Albert - Starace, Potito asdasdas asdasda ssad",
+                    "eventDate": "2014-06-10T12:30:00Z",
+                    "elapsedTime": "(0-1) Interrotta",
+                    "streamingAvailable": false,
+                    "streamingProvider": 2,
+                    "team1Description": "Ramos, Albert",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        3
+                    ],
+                    "team2Description": "Starace, Potito",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        6
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "CHALLENGER DI ITALIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 0
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 150
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 698,
+                    "eventCode": 1314,
+                    "eventDescription": "Klasen, Anna - Erkens, Michele",
+                    "eventDate": "2014-06-10T13:00:00Z",
+                    "elapsedTime": "(2-0) Finale",
+                    "team1Description": "Klasen, Anna",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        6
+                    ],
+                    "team2Description": "Erkens, Michele",
+                    "team2UriImage": "",
+                    "quoted": false,
+                    "team2Scores": [
+                        1,
+                        2
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GERMANIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 7,
+                    "leagueCode": 700,
+                    "eventCode": 1327,
+                    "eventDescription": "Murray, Samantha - Tsurenko, Lesia",
+                    "eventDate": "2014-06-10T13:00:00Z",
+                    "elapsedTime": "(1-1) 3 Set in corso",
+                    "team1Description": "Murray, Samantha",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        4,
+                        1
+                    ],
+                    "team2Description": "Tsurenko, Lesia",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        2,
+                        6,
+                        1
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 215
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 165
+                            }
+                        ],
+                        "handicap": 350,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 60,
+                    "eventDescription": "WATSON H. - WOZNIAK A.",
+                    "eventDate": "2014-06-10T13:00:00Z",
+                    "elapsedTime": "(1-1) 3 Set in corso",
+                    "team1Description": "WATSON H.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        5,
+                        3
+                    ],
+                    "team2Description": "WOZNIAK A.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        2,
+                        7,
+                        4
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 230
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 155
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 61,
+                    "eventDescription": "ZAHLAVOVA STRYCOVA B. - BROADY N.",
+                    "eventDate": "2014-06-10T13:00:00Z",
+                    "elapsedTime": "(1-1) 3 Set in corso",
+                    "team1Description": "ZAHLAVOVA STRYCOVA B.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        5,
+                        6,
+                        1
+                    ],
+                    "team2Description": "BROADY N.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        7,
+                        4,
+                        0
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 114
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 500
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 62,
+                    "eventDescription": "VOEGELE S. - PUIG M.",
+                    "eventDate": "2014-06-10T13:00:00Z",
+                    "elapsedTime": "(1-0) 2 Set in corso",
+                    "team1Description": "VOEGELE S.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        7
+                    ],
+                    "team2Description": "PUIG M.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        6
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 157
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 225
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 700,
+                    "eventCode": 1328,
+                    "eventDescription": "Krunic, Aleksandra - Hlavackova, Andrea",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "Krunic, Aleksandra",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        0
+                    ],
+                    "team2Description": "Hlavackova, Andrea",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        1
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 340
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 125
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 3
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 700,
+                    "eventCode": 1329,
+                    "eventDescription": "Parmentier, Pauline - Majeric, Tadeja",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(0-1) 2 Set in corso",
+                    "team1Description": "Parmentier, Pauline",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        1,
+                        2
+                    ],
+                    "team2Description": "Majeric, Tadeja",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        6,
+                        3
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 800
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 105
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 706,
+                    "eventCode": 1289,
+                    "eventDescription": "Jankovits Y / Roy M - Baran A / Baran R",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF ISRAELE",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 35,
+                    "eventDescription": "ANDERSON K. - EVANS D.",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "ANDERSON K.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        3
+                    ],
+                    "team2Description": "EVANS D.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        0
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 108
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 650
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 3
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 36,
+                    "eventDescription": "GOFFIN D. - THIEM D.",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(2-0) Finale",
+                    "team1Description": "GOFFIN D.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        6
+                    ],
+                    "team2Description": "THIEM D.",
+                    "team2UriImage": "",
+                    "quoted": false,
+                    "team2Scores": [
+                        4,
+                        2
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 38,
+                    "eventDescription": "PAIRE B. - NIEMINEN J.",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(1-1) 3 Set in corso",
+                    "team1Description": "PAIRE B.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        3,
+                        6
+                    ],
+                    "team2Description": "NIEMINEN J.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        2,
+                        6,
+                        5
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 155
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 230
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 39,
+                    "eventDescription": "LORENZI P. - POSPISIL V.",
+                    "eventDate": "2014-06-10T13:30:00Z",
+                    "elapsedTime": "(1-1) 3 Set in corso",
+                    "team1Description": "LORENZI P.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        3,
+                        6,
+                        1
+                    ],
+                    "team2Description": "POSPISIL V.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        6,
+                        3,
+                        1
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 127
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 350
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 761,
+                    "eventCode": 1282,
+                    "eventDescription": "Grassi, Claudio - Cuevas, Pablo",
+                    "eventDate": "2014-06-10T13:50:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "CHALLENGER DI ITALIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 698,
+                    "eventCode": 1317,
+                    "eventDescription": "Sibille, Constance - Morderger, Tayisiya",
+                    "eventDate": "2014-06-10T14:00:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "Sibille, Constance",
+                    "team1UriImage": "",
+                    "team1Scores": [],
+                    "team2Description": "Morderger, Tayisiya",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GERMANIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 210
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 165
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 3
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 708,
+                    "eventCode": 1321,
+                    "eventDescription": "Savinykh, Valeria - Barbieri, Gioia",
+                    "eventDate": "2014-06-10T14:00:00Z",
+                    "elapsedTime": "(0-1) 2 Set in corso",
+                    "team1Description": "Savinykh, Valeria",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        3,
+                        1
+                    ],
+                    "team2Description": "Barbieri, Gioia",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        6,
+                        1
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF ITALIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 875
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 103
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 730,
+                    "eventCode": 1293,
+                    "eventDescription": "Kolisnyk O / Lebedyn A - Dovgan O / Zarichanskyy",
+                    "eventDate": "2014-06-10T14:00:00Z",
+                    "elapsedTime": "(1-0) 2 Set in corso",
+                    "team1Description": "Kolisnyk O / Lebedyn A",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        6,
+                        4
+                    ],
+                    "team2Description": "Dovgan O / Zarichanskyy",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        4,
+                        3
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF UCRAINA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 94,
+                        "gameDescription": "TESTA/TESTA SET2 LIVE TEN. 2/3",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 105
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 800
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 1
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 64,
+                    "eventDescription": "IVANOVIC A. - BARTHEL M.",
+                    "eventDate": "2014-06-10T14:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 65,
+                    "eventDescription": "WICKMAYER Y. - VANDEWEGHE C.",
+                    "eventDate": "2014-06-10T14:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 700,
+                    "eventCode": 1330,
+                    "eventDescription": "Wallace, Isabelle - Gibbs, Nicole",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 731,
+                    "eventCode": 1307,
+                    "eventDescription": "Galfi, Dalma - Sramkova, Rebecca",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "Galfi, Dalma",
+                    "team1UriImage": "",
+                    "team1Scores": [],
+                    "team2Description": "Sramkova, Rebecca",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF UNGHERIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 90,
+                        "gameDescription": "TERZO SET SI/NO LIVE",
+                        "outcomeListCode": 9,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "SI",
+                                "outcomeOdds": 500
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "NO",
+                                "outcomeOdds": 114
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 40,
+                    "eventDescription": "CILIC M. - MATOSEVIC M.",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 41,
+                    "eventDescription": "BAGHDATIS M. - KLAHN B.",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "BAGHDATIS M.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        1
+                    ],
+                    "team2Description": "KLAHN B.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        1
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 116
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 500
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 3
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 42,
+                    "eventDescription": "ROGER VASSELIN E. - DONSKOY E.",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "elapsedTime": "(0-0) 1 Set in corso",
+                    "team1Description": "ROGER VASSELIN E.",
+                    "team1UriImage": "",
+                    "team1Scores": [
+                        2
+                    ],
+                    "team2Description": "DONSKOY E.",
+                    "team2UriImage": "",
+                    "quoted": true,
+                    "team2Scores": [
+                        2
+                    ],
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 89,
+                        "gameDescription": "TESTA A TESTA MATCH LIVE",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 130
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 310
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 3
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 43,
+                    "eventDescription": "BENNETEAU J. - ESTRELLA V.",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 44,
+                    "eventDescription": "ISTOMIN D. - DUSTOV F.",
+                    "eventDate": "2014-06-10T14:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 700,
+                    "eventCode": 1331,
+                    "eventDescription": "Doi, Misaki - Arvidsson, Sofia",
+                    "eventDate": "2014-06-10T15:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 700,
+                    "eventCode": 1332,
+                    "eventDescription": "Boulter K / Hibi M - Cepede Royg V / Vogt S",
+                    "eventDate": "2014-06-10T15:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GRAN BRETAGNA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 66,
+                    "eventDescription": "HANTUCHOVA D. - BENCIC B.",
+                    "eventDate": "2014-06-10T15:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 136,
+                    "eventCode": 67,
+                    "eventDescription": "DAVIS L. - DUVAL V.",
+                    "eventDate": "2014-06-10T15:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI BIRMINGHAM",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 761,
+                    "eventCode": 1286,
+                    "eventDescription": "Bracciali D / Starace P - Giacalone O / Naso G",
+                    "eventDate": "2014-06-10T15:10:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "CHALLENGER DI ITALIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15477,
+                    "sportCode": 3,
+                    "leagueCode": 698,
+                    "eventCode": 1316,
+                    "eventDescription": "Minella, Mandy - Ozga, Justine",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "ITF GERMANIA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 45,
+                    "eventDescription": "DIMITROV G. - WARD J.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 46,
+                    "eventDescription": "KUDLA D. - QUERREY S.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 47,
+                    "eventDescription": "STEPANEK R. - KUKUSHKIN M.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 48,
+                    "eventDescription": "DUCKWORTH J. - BERDYCH T.",
+                    "eventDate": "2014-06-10T16:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 49,
+                    "eventDescription": "EBDEN M. - LACKO L.",
+                    "eventDate": "2014-06-10T16:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 55,
+                    "eventDescription": "MONFILS G. - BECKER B.",
+                    "eventDate": "2014-06-10T17:30:00Z",
+                    "quoted": false,
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI HALLE",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15513,
+                    "sportCode": 1,
+                    "leagueCode": 172,
+                    "eventCode": 1,
+                    "eventDescription": "AUSTRIA (U19) - RUSSIA (U19)",
+                    "eventDate": "2014-06-10T18:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "CAMPIONATO EUROPEO UNDER 19",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15513,
+                    "sportCode": 1,
+                    "leagueCode": 172,
+                    "eventCode": 2,
+                    "eventDescription": "ROMANIA (U19) - NORVEGIA (U19)",
+                    "eventDate": "2014-06-10T18:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "CAMPIONATO EUROPEO UNDER 19",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15514,
+                    "sportCode": 5,
+                    "leagueCode": 33,
+                    "eventCode": 1,
+                    "eventDescription": "DANIMARCA - SLOVENIA",
+                    "eventDate": "2014-06-10T19:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "VOLLEY",
+                    "leagueDescription": "EUROPEAN LEAGUE",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_volley1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_volley1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15501,
+                    "sportCode": 2,
+                    "leagueCode": 8,
+                    "eventCode": 4,
+                    "eventDescription": "REGAL FC BARCELONA - VALENCIA",
+                    "eventDate": "2014-06-10T20:15:00Z",
+                    "quoted": false,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "CAMPIONATO SPAGNOLO",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "gamesNumber": 0
+                },
+                {
+                    "programCode": 15501,
+                    "sportCode": 2,
+                    "leagueCode": 8,
+                    "eventCode": 6,
+                    "eventDescription": "UNICAJA MALAGA - REAL MADRID",
+                    "eventDate": "2014-06-10T22:00:00Z",
+                    "quoted": false,
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "CAMPIONATO SPAGNOLO",
+                    "imageUri": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "gamesNumber": 0
+                }
+            ]
+        },
+        {
+            "type": 3,
+            "homeDescription": "Best Seller",
+            "eventForHomeList": [
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 27,
+                    "eventDescription": "BRASILE - CROAZIA",
+                    "eventDate": "2014-06-12T22:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 0
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 515
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 1150
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 79
+                },
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 7,
+                    "eventDescription": "URUGUAY - COSTA RICA",
+                    "eventDate": "2014-06-14T21:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 147
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 405
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 800
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 82
+                },
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 14,
+                    "eventDescription": "FRANCIA - HONDURAS",
+                    "eventDate": "2014-06-15T21:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 135
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 475
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 1000
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 79
+                },
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 34,
+                    "eventDescription": "CILE - AUSTRALIA",
+                    "eventDate": "2014-06-14T00:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 145
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 415
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 850
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 81
+                },
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 39,
+                    "eventDescription": "ARGENTINA - BOSNIA ERZEGOVINA",
+                    "eventDate": "2014-06-16T00:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 145
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 440
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 755
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 81
+                },
+                {
+                    "programCode": 14280,
+                    "sportCode": 1,
+                    "leagueCode": 105,
+                    "eventCode": 21,
+                    "eventDescription": "BELGIO - ALGERIA",
+                    "eventDate": "2014-06-17T18:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "MONDIALI",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 147
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 415
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 755
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 81
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 55,
+                    "eventDescription": "MONFILS G. - BECKER B.",
+                    "eventDate": "2014-06-10T17:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI HALLE",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 142
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 280
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 8
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 46,
+                    "eventDescription": "KUDLA D. - QUERREY S.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 300
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 137
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 8
+                }
+            ]
+        },
+        {
+            "type": 4,
+            "homeDescription": "Last Minute",
+            "eventForHomeList": [
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 45,
+                    "eventDescription": "DIMITROV G. - WARD J.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 0,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 112
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 600
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 46,
+                    "eventDescription": "KUDLA D. - QUERREY S.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 300
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 137
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 8
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 47,
+                    "eventDescription": "STEPANEK R. - KUKUSHKIN M.",
+                    "eventDate": "2014-06-10T15:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 121
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 425
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 48,
+                    "eventDescription": "DUCKWORTH J. - BERDYCH T.",
+                    "eventDate": "2014-06-10T16:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 975
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 104
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 2
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 51,
+                    "eventCode": 49,
+                    "eventDescription": "EBDEN M. - LACKO L.",
+                    "eventDate": "2014-06-10T16:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI LONDRA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 223
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 163
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 8
+                },
+                {
+                    "programCode": 15519,
+                    "sportCode": 3,
+                    "leagueCode": 42,
+                    "eventCode": 55,
+                    "eventDescription": "MONFILS G. - BECKER B.",
+                    "eventDate": "2014-06-10T17:30:00Z",
+                    "sportDescription": "TENNIS",
+                    "leagueDescription": "TORNEO DI HALLE",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_tennis1.jpg",
+                    "gamePromo": {
+                        "gameCode": 348,
+                        "gameDescription": "TESTA A TESTA MATCH RISULTATO",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 142
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 280
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 8
+                },
+                {
+                    "programCode": 15501,
+                    "sportCode": 2,
+                    "leagueCode": 48,
+                    "eventCode": 1,
+                    "eventDescription": "NIZHNY NOVGOROD - CSKA MOSCA",
+                    "eventDate": "2014-06-10T18:00:00Z",
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "VTB LEAGUE",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "gamePromo": {
+                        "gameCode": 26,
+                        "gameDescription": "TESTA A TESTA HANDICAP",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 187
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 187
+                            }
+                        ],
+                        "handicap": -650,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 13
+                },
+                {
+                    "programCode": 15513,
+                    "sportCode": 1,
+                    "leagueCode": 172,
+                    "eventCode": 1,
+                    "eventDescription": "AUSTRIA (U19) - RUSSIA (U19)",
+                    "eventDate": "2014-06-10T18:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "CAMPIONATO EUROPEO UNDER 19",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 220
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 345
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 290
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 31
+                },
+                {
+                    "programCode": 15513,
+                    "sportCode": 1,
+                    "leagueCode": 172,
+                    "eventCode": 2,
+                    "eventDescription": "ROMANIA (U19) - NORVEGIA (U19)",
+                    "eventDate": "2014-06-10T18:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "CAMPIONATO EUROPEO UNDER 19",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 225
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 340
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 285
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 30
+                },
+                {
+                    "programCode": 15509,
+                    "sportCode": 2,
+                    "leagueCode": 32,
+                    "eventCode": 1,
+                    "eventDescription": "TULSA (SHOCK) - NEW YORK (LIBERTY)",
+                    "eventDate": "2014-06-10T18:30:00Z",
+                    "sportDescription": "BASKET",
+                    "leagueDescription": "WNBA",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_basket1.jpg",
+                    "gamePromo": {
+                        "gameCode": 26,
+                        "gameDescription": "TESTA A TESTA HANDICAP",
+                        "outcomeListCode": 2,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 182
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 193
+                            }
+                        ],
+                        "handicap": 350,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 11
+                },
+                {
+                    "programCode": 15500,
+                    "sportCode": 1,
+                    "leagueCode": 28,
+                    "eventCode": 9,
+                    "eventDescription": "HODD - KRISTIANSUND",
+                    "eventDate": "2014-06-10T19:00:00Z",
+                    "sportDescription": "CALCIO",
+                    "leagueDescription": "2^ DIVISIONE NORVEGESE",
+                    "uriImage": "http://img.eurobet.it/adynit/images/mobile/sport/mob_icon_calcio1.jpg",
+                    "gamePromo": {
+                        "gameCode": 3,
+                        "gameDescription": "ESITO FINALE 1X2",
+                        "outcomeListCode": 1,
+                        "outcomeList": [
+                            {
+                                "outcomeCode": 1,
+                                "outcomeDescription": "1",
+                                "outcomeOdds": 215
+                            },
+                            {
+                                "outcomeCode": 2,
+                                "outcomeDescription": "X",
+                                "outcomeOdds": 335
+                            },
+                            {
+                                "outcomeCode": 3,
+                                "outcomeDescription": "2",
+                                "outcomeOdds": 315
+                            }
+                        ],
+                        "handicap": 0,
+                        "comboMin": 1,
+                        "comboMax": 20,
+                        "comboAams": 1
+                    },
+                    "gamesNumber": 17
+                }
+            ]
+        }
+    ],
+    "campaignList": [],
+    "multiPromoCommercialList": [
+        {
+            "type": 1,
+            "imageUrl": "http://img.eurobet.it/adynit/images/_newsite-14/images/promo_nexse/scommesse/bollino-scommesse-10-100.png",
+            "clickUrl": "http://www.eurobet.it/mobile-lista-bonus",
+            "mainTitle": "Bonus 10 euro subito piu' 100 euro",
+            "subTitle": "Chi ama il calcio ci scommette",
+            "summary": "Bonus al deposito 10 euro piu' Welcome Bonus 100 euro",
+            "buttonLabel": "Scopri come"
+        },
+        {
+            "type": 1,
+            "imageUrl": "http://img.eurobet.it/adynit/images/_newsite-14/images/promo_nexse/scommesse/infoskin_bonus_scommesse_zonacesarini.png",
+            "clickUrl": "http://img.eurobet.it/adynit/images/termini/tec_assicurazioni_zonacesarini.html",
+            "mainTitle": "Promo Zona Cesarini",
+            "subTitle": "Scommetti su Chelsea - Manchester City",
+            "summary": "Se entro l'85' la tua scommessa su Risultato Esatto e Scorecast e' vincente, ed un goal ti rovina la festa, ti rimborsiamo fino a 15 euro",
+            "buttonLabel": "Scopri come"
+        },
+        {
+            "type": 2,
+            "imageUrl": "http://img.eurobet.it/adynit/images/_newsite-14/images/promo_nexse/scommesse/infoskin_bonus_scommesse_bomber.png",
+            "clickUrl": "http://img.eurobet.it/adynit/images/termini/tec_assicurazioni_bomber.html",
+            "mainTitle": "Promo Bomber",
+            "subTitle": "Scommetti su Milan - Parma",
+            "summary": "Se Menez segnera' durante Milan - Parma la tua scommessa perdente su Risultato Esatto, Primo Marcatore e HT/FT sara' rimborsata fino a 15 euro",
+            "buttonLabel": "Scopri come"
+        }
+    ],
+    "searchGameAvailableList": [
+        "Tutti",
+        "Scommesse",
+        "Roulette",
+        "Blackjack",
+        "AllAmerican",
+        "Palline",
+        "AltoBasso",
+        "Tesoro d'Egitto",
+        "Slot dei Pirati"
+    ],
+    "bonusInfo": {
+        "minimumEventsNumber": 5,
+        "minimumOdds": 120,
+        "percentageBonus": 500
+    },
+    "bonusMultipleInfo": {
+        "minimumEventsNumber": 5,
+        "minimumOdds": 120,
+        "percentageBonus": 500
+    },
+    "bonusSystemInfo": {
+        "minimumEventsNumber": 5,
+        "minimumOdds": 120,
+        "percentageBonus": 500,
+        "maxEventsNumber": 7
+    },
+    "quickBetSection": {
+        "sportList": [
+            {
+                "sportCode": -1,
+                "sportDescription": "TUTTI",
+                "gamesNumber": 0
+            },
+            {
+                "sportCode": 1,
+                "sportDescription": "CALCIO",
+                "gamesNumber": 0
+            },
+            {
+                "sportCode": 2,
+                "sportDescription": "BASKET",
+                "gamesNumber": 0
+            },
+            {
+                "sportCode": 3,
+                "sportDescription": "TENNIS",
+                "gamesNumber": 0
+            }
+        ],
+        "availableAmountList": [
+            200,
+            300,
+            400,
+            500,
+            600,
+            700,
+            800,
+            900,
+            1000,
+            1500,
+            2000,
+            2500,
+            3000,
+            4000,
+            5000,
+            7500,
+            10000
+        ],
+        "gamesNumberList": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            7,
+            10
+        ],
+        "availableMinWin": [
+            1000,
+            2000,
+            5000,
+            10000,
+            20000,
+            50000,
+            100000,
+            200000,
+            300000
+        ]
+    },
+    "promoPositionId": 0,
+    "promoCommercialTimeToShowInMs": 3000,
+    "statusResponse": {
+        "code": 1,
+        "codeDescription": "ok",
+        "version": "3.1.0",
+        "downloadUrl": "http://mobile.eurobet.it/bos2-html5/",
+        "minAppVersion": "1.0.0",
+        "guidaUrl": "https://www.eurobet.it/guida/",
+        "lostPasswordUrl": "https://www.eurobet.it/it/5/help/password_frameset.html",
+        "signUpUrl": "https://wallet.eurobet.it/WebAccountManager/newaccount",
+        "geoLock": 1,
+        "activeBonus": true,
+        "aamsUrlList": [
+            {
+                "url": "http://www.aams.gov.it",
+                "iconId": 2
+            },
+            {
+                "url": "http://www.eurobet.it/guida/informazioni/gioco-responsabile.html",
+                "iconId": 0
+            },
+            {
+                "url": "https://www.eurobet.it/guida/informazioni/gioco-responsabile.html",
+                "iconId": 3
+            },
+            {
+                "url": "http://www.aams.gov.it/site.php?id=2457",
+                "iconId": 1
+            }
+        ],
+        "gamePromoList": [
+            {
+                "appId": 13,
+                "title": "Eurobet Scommesse Sportive",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/i_icona_scommesse.png",
+                "url": "https://itunes.apple.com/it/app/eurobet-scommesse-sportive/id500139665?mt=8",
+                "localUrl": "eurobetScommesse://",
+                "mainActivity": "",
+                "statusApp": 0,
+                "section": 0,
+                "casinoSection": 0,
+                "promoType": 2,
+                "shareInfo": {
+                    "title": "Eurobet Scommesse Sportive",
+                    "content": "Gioca anche tu con l'app di Eurobet Scommesse Sportive!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 1,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/scommesse_carosello.jpg",
+                "subtitle": "Eurobet Italia srl",
+                "availablePlatformImageList": []
+            },
+            {
+                "appId": 14,
+                "title": "Eurobet Scommesse HD",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/i_icona_scommesse_bot.png",
+                "url": "https://itunes.apple.com/it/app/eurobet-scommesse-hd/id972684235?mt=8",
+                "localUrl": "eurobetBot://",
+                "mainActivity": "",
+                "statusApp": 0,
+                "section": 0,
+                "casinoSection": 0,
+                "promoType": 2,
+                "shareInfo": {
+                    "title": "Eurobet Scommesse HD",
+                    "content": "Gioca anche tu con l'app di Eurobet Scommesse HD!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 13,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/scommesse_carosello.jpg",
+                "subtitle": "Eurobet Italia srl",
+                "availablePlatformImageList": []
+            },
+            {
+                "appId": 1,
+                "title": "Eurobet Scommesse Sportive",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/i_icona_scommesse.png",
+                "url": "https://img.eurobet.it/adynit/images/mobile/eurobet_scommesse.apk",
+                "localUrl": "com.nexse.mobile.bos.eurobet",
+                "mainActivity": "com.nexse.bos.Splash",
+                "statusApp": 0,
+                "section": 0,
+                "casinoSection": 0,
+                "promoType": 1,
+                "shareInfo": {
+                    "title": "Eurobet Scommesse Sportive",
+                    "content": "Gioca anche tu con l'app di Eurobet Scommesse Sportive!",
+                    "link": "http://10.0.0.173:8080/mgp-static/eurobet/static/social/shareApp.html",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 1,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/scommesse_carosello.jpg",
+                "subtitle": "Eurobet Italia srl",
+                "availablePlatformImageList": [
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_phone.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_tablet.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_android.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_apple.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_windowsphone.png"
+                ]
+            },
+            {
+                "appId": 2,
+                "title": "Eurobet Scommesse HD",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/i_icona_scommesse_bot.png",
+                "url": "https://img.eurobet.it/adynit/images/tablet/eurobet_scommesse_tablet.apk",
+                "localUrl": "com.nexse.mobile.bot.eurobet",
+                "mainActivity": "com.nexse.mobile.bot.eurobet.ui.SplashActivity",
+                "statusApp": 0,
+                "section": 0,
+                "casinoSection": 0,
+                "promoType": 1,
+                "shareInfo": {
+                    "title": "Eurobet Scommesse HD",
+                    "content": "Gioca anche tu con l'app di Eurobet Scommesse HD!",
+                    "link": "http://10.0.0.173:8080/mgp-static/eurobet/static/social/shareApp.html",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 13,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/scommesse_carosello.jpg",
+                "subtitle": "Eurobet Italia srl",
+                "availablePlatformImageList": [
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_phone.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_tablet.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_android.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_apple.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_windowsphone.png"
+                ]
+            },
+            {
+                "appId": 30,
+                "title": "Eurobet Scommesse Sportive",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/i_icona_scommesse.png",
+                "url": "https://www.windowsphone.com/it-it/store/app/eurobet-scommesse-sportive/29841a14-9e34-44dd-bdf8-2c30f46f2dc4",
+                "localUrl": "com.nexse.mobile.bos.eurobet",
+                "mainActivity": "",
+                "statusApp": 0,
+                "section": 0,
+                "casinoSection": 0,
+                "promoType": 6,
+                "shareInfo": {
+                    "title": "Scommesse",
+                    "content": "Gioca anche tu con l'app di Scommesse!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 1,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/scommesse_carosello.jpg",
+                "subtitle": "Scommesse",
+                "availablePlatformImageList": [
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_phone.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_tablet.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_android.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_apple.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_windowsphone.png"
+                ]
+            },
+            {
+                "appId": 22,
+                "title": "Eurobet",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/icona-eurobet.png",
+                "url": "https://itunes.apple.com/us/app/eurobet-casino/id811300065?l=it&ls=1&mt=8",
+                "localUrl": "com.nexse.eurobet.EurobetContainer://",
+                "mainActivity": "",
+                "statusApp": 2,
+                "section": 1,
+                "casinoSection": 6,
+                "promoType": 2,
+                "shareInfo": {
+                    "title": "Eurobet",
+                    "content": "Gioca anche tu con l'app di Eurobet!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 9,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/contenitore_carosello.png",
+                "subtitle": "Eurobet",
+                "availablePlatformImageList": []
+            },
+            {
+                "appId": 10,
+                "title": "Eurobet Casino'",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/icona-eurobet.png",
+                "url": "https://img.eurobet.it/adynit/images/mobile/eurobet_casino.apk",
+                "localUrl": "com.nexse.mobile.eurobet.casino.contenitore",
+                "mainActivity": "com.nexse.mobile.eurobet.casino.contenitore.Casino",
+                "statusApp": 2,
+                "section": 1,
+                "casinoSection": 6,
+                "promoType": 1,
+                "shareInfo": {
+                    "title": "Eurobet Casino'",
+                    "content": "Gioca anche tu con l'app di Eurobet Casino'!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 9,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/contenitore_carosello.png",
+                "subtitle": "Eurobet Casino'",
+                "availablePlatformImageList": [
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_phone.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_tablet.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_android.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_apple.png",
+                    "http://10.0.0.173:8080/mgp-static/eurobet/static/platforms/a_scommesse_icon_windowsphone.png"
+                ]
+            },
+            {
+                "appId": 33,
+                "title": "Casino",
+                "imgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/icons/icona-eurobet.png",
+                "url": "http://10.0.0.173:8080/casino/",
+                "localUrl": "http://TODO",
+                "mainActivity": "",
+                "statusApp": 2,
+                "section": 1,
+                "casinoSection": 6,
+                "promoType": 3,
+                "shareInfo": {
+                    "title": "Casino",
+                    "content": "Gioca anche tu con l'app di Casino!",
+                    "link": "http://www.eurobet.it",
+                    "imgUrl": "TODO Share info Img url"
+                },
+                "gameId": 9,
+                "promoImgUrl": "http://10.0.0.173:8080/mgp-static/eurobet/static/container/ext/contenitore_carosello.png",
+                "subtitle": "Casino",
+                "availablePlatformImageList": []
+            }
+        ]
+    },
+    "socialBetEndpoint": "http://mobile.eurobet.it/mgp-static/eurobet/static/social/shareBetHtml5.html"
+}
