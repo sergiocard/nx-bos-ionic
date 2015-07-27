@@ -1,5 +1,5 @@
 function baseDataResource($resource) {
-    var BaseData = $resource('stub/getBaseData');
-    return BaseData;
+    var baseData = $resource('stub/getBaseData'); //TODO recuperare/costruire url
+    return baseData;
 }
 

@@ -1,6 +1,4 @@
-var commonModelModule = angular.module('common.model', []);
-
-commonModelModule.factory('Response', function () {
+function ResponseFactory() {
     /**
      * Private property
      */
@@ -58,4 +56,4 @@ commonModelModule.factory('Response', function () {
      * Return the constructor function
      */
     return Response;
-});
+}
